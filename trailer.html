@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<title>Trailer</title>
+<style>html,body{margin:0;width:100%;height:100%;background:#000;overflow:hidden}#p{width:100%;height:100%}</style>
+</head>
+<body>
+<div id="p"></div>
+<script>
+/* Página puente para el tráiler de M3U Player: YouTube exige que el video se embeba desde una página web (https).
+ * Recibe ?v=ID_DEL_VIDEO&hl=idioma, reproduce el video y le avisa a la app el estado con postMessage. */
+var q = {}, pl = null;
+location.search.replace(/^\?/, '').split('&').forEach(function (kv) {
+  var i = kv.indexOf('='); if (i > 0) q[kv.slice(0, i)] = decodeURIComponent(kv.slice(i + 1));
+});
+var hl = (q.hl || 'es').replace(/[^a-z]/gi, '');
+function send(m) { m.ytw = 1; try { parent.postMessage(m, '*'); } catch (e) {} }
+window.onYouTubeIframeAPIReady = function () {
+  if (!/^[\w-]{6,20}$/.test(q.v || '')) return send({ ev: 'error', code: 2 });
+  pl = new YT.Player('p', {
+    width: '100%', height: '100%', videoId: q.v,
+    playerVars: { autoplay: 1, controls: 0, rel: 0, modestbranding: 1, iv_load_policy: 3, fs: 0, disablekb: 1,
+      playsinline: 1, cc_load_policy: 1, cc_lang_pref: hl, hl: hl, origin: location.origin },
+    events: {
+      onReady: function (e) { try { e.target.playVideo(); } catch (x) {} send({ ev: 'ready' }); },
+      onError: function (e) { send({ ev: 'error', code: e.data }); },
+      onStateChange: function (e) { send({ ev: 'state', s: e.data }); }
+    }
+  });
+};
+window.addEventListener('message', function (e) {
+  var d = e.data || {};
+  if (!pl || !pl.getPlayerState) return;
+  if (d.cmd === 'toggle') { if (pl.getPlayerState() === 1) pl.pauseVideo(); else pl.playVideo(); }
+  else if (d.cmd === 'seek') pl.seekTo(Math.max(0, pl.getCurrentTime() + (+d.d || 0)), true);
+});
+</script>
+<script src="https://www.youtube.com/iframe_api"></script>
+</body>
+</html>
