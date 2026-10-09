@@ -1,0 +1,82 @@
+# Guía de TV por país: todos los días arma guias/guia_XX.xml (uno por país) y guias/index.json.
+# La app (Ajustes → Países de la guía) baja solo los países que cada uno elige.
+# Para sumar o sacar países, editá PAISES (códigos de 2 letras separados por espacio).
+name: Guia de TV
+on:
+  schedule:
+    - cron: '0 8 * * *'      # todos los días a las 05:00 de Argentina
+  workflow_dispatch:          # botón "Run workflow" para correrla a mano
+permissions:
+  contents: write
+env:
+  PAISES: "ar uy cl py bo pe co ec ve mx br us ca es pt it fr de gb nl be ch at se no dk fi pl ru ua tr am gr ro"
+  DIAS: "2"
+
+jobs:
+  preparar:
+    runs-on: ubuntu-latest
+    outputs:
+      paises: ${{ steps.p.outputs.paises }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: git clone --depth 1 https://github.com/iptv-org/epg.git epg
+      - id: p
+        run: |
+          python3 armar_guias.py preparar epg "$PAISES"
+          echo "paises=$(cat paises.json)" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: canales
+          path: canales/
+
+  armar:
+    needs: preparar
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      max-parallel: 12
+      matrix:
+        pais: ${{ fromJson(needs.preparar.outputs.paises) }}
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: git clone --depth 1 https://github.com/iptv-org/epg.git epg
+      - working-directory: epg
+        run: npm install
+      - uses: actions/download-artifact@v4
+        with:
+          name: canales
+          path: canales
+      - working-directory: epg
+        run: npm run grab --- --channels=../canales/${{ matrix.pais }}.channels.xml --output=../guia_${{ matrix.pais }}.xml --days=$DIAS --maxConnections=10 --timeout=15000 || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: guia_${{ matrix.pais }}
+          path: guia_${{ matrix.pais }}.xml
+          if-no-files-found: ignore
+
+  publicar:
+    needs: armar
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: guia_*
+          path: nuevas
+          merge-multiple: true
+      - run: |
+          mkdir -p guias
+          # solo reemplaza los países que salieron bien (si uno falla, queda el de ayer)
+          for f in nuevas/guia_*.xml; do [ -f "$f" ] && grep -q "<programme" "$f" && cp "$f" guias/; done
+          python3 armar_guias.py indice
+          rm -rf nuevas
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add guias
+          git commit -m "Guía de TV actualizada" || echo "Sin cambios"
+          git push
