@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261113">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261114">
 <channel id="RTS.ec@SD"><display-name>RTS</display-name><icon src="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rts%2F20230515_122020%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC"/></channel>
 <channel id="EcuadorTV.ec@SD"><display-name>Canal Ecuador TV</display-name><icon src="https://i.imgur.com/hj6EYwe.png"/></channel>
 <channel id="Ecuavisa.ec@SD"><display-name>Canal Ecuavisa (Ecuador)</display-name><icon src="https://i.imgur.com/Hl5wowk.png"/></channel>
@@ -8,30 +8,6 @@
 <channel id="Teleamazonas.ec@SD"><display-name>Canal Teleamazonas</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png"/></channel>
 <channel id="ClicTV.ec@SD"><display-name>Clic</display-name><icon src="https://i.imgur.com/bvSLm9U.png"/></channel>
 <channel id="MakroDigitalTelevision.ec@SD"><display-name>MakroDigital Television</display-name><icon src="https://makrodigitaltelevision.com/logo.jpg"/></channel>
-<programme start="20261113043000 +0000" stop="20261113053000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Telediario</title></programme>
-<programme start="20261113053000 +0000" stop="20261113083000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Café TV</title></programme>
-<programme start="20261113083000 +0000" stop="20261113093000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Esta es mi canción</title></programme>
-<programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Noticiero Quichua Willaykuna</title></programme>
-<programme start="20261113100000 +0000" stop="20261113120000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Telediario</title></programme>
-<programme start="20261113120000 +0000" stop="20261113140000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Café TV</title></programme>
-<programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Rodando Ecuador</title></programme>
-<programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Infantiles</title></programme>
-<programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Próxima parada</title></programme>
-<programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Hola,¿qué hace?</title></programme>
-<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Telediario</title></programme>
-<programme start="20261113180000 +0000" stop="20261113185000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Fanático</title></programme>
-<programme start="20261113185000 +0000" stop="20261113190000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Tierra y Mar</title></programme>
-<programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Educa</title></programme>
-<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Infantiles</title></programme>
-<programme start="20261113203000 +0000" stop="20261113223000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Café TV</title></programme>
-<programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Fanático</title></programme>
-<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Esta es mi canción</title></programme>
-<programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Telediario</title></programme>
-<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Desde Cero</title></programme>
-<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Fanático</title></programme>
-<programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Rodando Ecuador</title></programme>
-<programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Próxima parada</title></programme>
-<programme start="20261114043000 +0000" stop="20261114053000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Telediario</title></programme>
 <programme start="20261114043000 +0000" stop="20261114053000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Telediario</title></programme>
 <programme start="20261114053000 +0000" stop="20261114100000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Café TV</title></programme>
 <programme start="20261114100000 +0000" stop="20261114103000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Noticiero Quichua Willaykuna</title></programme>
@@ -55,22 +31,30 @@
 <programme start="20261115023000 +0000" stop="20261115033000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Próxima parada</title></programme>
 <programme start="20261115033000 +0000" stop="20261115043000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Telediario</title></programme>
 <programme start="20261115043000 +0000" stop="20261115053000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Fanático</title></programme>
-<programme start="20261113040000 +0000" stop="20261113090000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Telenovela</title></programme>
-<programme start="20261113090000 +0000" stop="20261113095000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Telenovela</title></programme>
-<programme start="20261113095000 +0000" stop="20261113105500 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Televistazo</title></programme>
-<programme start="20261113105500 +0000" stop="20261113113000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Contacto directo en Televistazo</title></programme>
-<programme start="20261113113000 +0000" stop="20261113133000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Televistazo</title></programme>
-<programme start="20261113133000 +0000" stop="20261113170000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">En contacto</title></programme>
-<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Televistazo</title></programme>
-<programme start="20261113180000 +0000" stop="20261113193000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Háckers del espectáculo</title></programme>
-<programme start="20261113193000 +0000" stop="20261113203000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">La mujer en el espejo</title></programme>
-<programme start="20261113203000 +0000" stop="20261113213000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Flor salvaje</title></programme>
-<programme start="20261113213000 +0000" stop="20261113230000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">La Mentira</title></programme>
-<programme start="20261113230000 +0000" stop="20261114010000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Televistazo</title></programme>
-<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Mi nombre es Leyla</title></programme>
-<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">El otro lado del amor</title></programme>
-<programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Piso 17</title></programme>
-<programme start="20261114040000 +0000" stop="20261114090000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Telenovela</title></programme>
+<programme start="20261115043000 +0000" stop="20261115053000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Fanático</title></programme>
+<programme start="20261115053000 +0000" stop="20261115073000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Café TV</title></programme>
+<programme start="20261115073000 +0000" stop="20261115080000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Próxima parada</title></programme>
+<programme start="20261115080000 +0000" stop="20261115100000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Telediario</title></programme>
+<programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Noticiero Quichua Willaykuna</title></programme>
+<programme start="20261115103000 +0000" stop="20261115113000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Desde Cero</title></programme>
+<programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Misa</title></programme>
+<programme start="20261115120000 +0000" stop="20261115123000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Rodando Ecuador</title></programme>
+<programme start="20261115123000 +0000" stop="20261115130000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Próxima parada</title></programme>
+<programme start="20261115130000 +0000" stop="20261115150000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Telediario</title></programme>
+<programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Café TV</title></programme>
+<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Esta es mi canción</title></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Desde Cero</title></programme>
+<programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Rodando Ecuador</title></programme>
+<programme start="20261115190000 +0000" stop="20261115213000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Educa</title></programme>
+<programme start="20261115213000 +0000" stop="20261115223000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Infantiles</title></programme>
+<programme start="20261115223000 +0000" stop="20261115230000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Próxima parada</title></programme>
+<programme start="20261115230000 +0000" stop="20261116000000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Telediario Dominical</title></programme>
+<programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Fanático</title></programme>
+<programme start="20261116010000 +0000" stop="20261116013000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Próxima parada</title></programme>
+<programme start="20261116013000 +0000" stop="20261116020000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">América ahora</title></programme>
+<programme start="20261116020000 +0000" stop="20261116033000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Cortometraje</title></programme>
+<programme start="20261116033000 +0000" stop="20261116043000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Telediario</title></programme>
+<programme start="20261116043000 +0000" stop="20261116053000 +0000" channel="EcuadorTV.ec@SD"><title lang="es">Fanático</title></programme>
 <programme start="20261114040000 +0000" stop="20261114090000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Telenovela</title></programme>
 <programme start="20261114090000 +0000" stop="20261114094500 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Así pasa</title></programme>
 <programme start="20261114094500 +0000" stop="20261114100000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Combo amarillo</title></programme>
@@ -88,24 +72,24 @@
 <programme start="20261115013000 +0000" stop="20261115033000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Largometraje</title></programme>
 <programme start="20261115033000 +0000" stop="20261115044500 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Chicago Fire</title><desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg</image></programme>
 <programme start="20261115044500 +0000" stop="20261115090000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Combo amarillo</title></programme>
-<programme start="20261113030000 +0000" stop="20261113053000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">En Contacto</title></programme>
-<programme start="20261113053000 +0000" stop="20261113063000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">3 Familias</title></programme>
-<programme start="20261113063000 +0000" stop="20261113070000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Así pasa</title></programme>
-<programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Los García</title></programme>
-<programme start="20261113080000 +0000" stop="20261113100000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Televistazo</title></programme>
-<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Televistazo al amanecer</title></programme>
-<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Contacto Directo</title></programme>
-<programme start="20261113113000 +0000" stop="20261113133000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Televistazo en la comunidad</title></programme>
-<programme start="20261113133000 +0000" stop="20261113170000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">En Contacto</title></programme>
-<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Televistazo</title></programme>
-<programme start="20261113180000 +0000" stop="20261113193000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Los hackers de la farándula</title></programme>
-<programme start="20261113193000 +0000" stop="20261113213000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Televistazo en la comunidad</title></programme>
-<programme start="20261113213000 +0000" stop="20261113220000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Programa Pagado</title></programme>
-<programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Los García</title></programme>
-<programme start="20261113230000 +0000" stop="20261114010000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Televistazo</title></programme>
-<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Ojitos hechiceros</title></programme>
-<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Los hackers de la farándula</title></programme>
-<programme start="20261114030000 +0000" stop="20261114053000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">En Contacto</title></programme>
+<programme start="20261115044500 +0000" stop="20261115090000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Combo amarillo</title></programme>
+<programme start="20261115090000 +0000" stop="20261115100000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">El Hombre Increíble</title></programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">El Hombre Increíble</title></programme>
+<programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Mamás que hacen historia</title></programme>
+<programme start="20261115113000 +0000" stop="20261115123000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Ser</title></programme>
+<programme start="20261115123000 +0000" stop="20261115133000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">The Good Doctor</title><desc lang="es">Un joven cirujano con autismo, se traslada a una prestigiosa unidad quirúrgica, utilizando sus dones médicos para salvar vidas desafiando a sus colegas.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/the_good_doctor.jpg</image></programme>
+<programme start="20261115133000 +0000" stop="20261115143000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Panorama internacional</title></programme>
+<programme start="20261115143000 +0000" stop="20261115153000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Políticamente correcto</title></programme>
+<programme start="20261115153000 +0000" stop="20261115163000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Esta Semana con Pedro Jiménez</title></programme>
+<programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Entre flashes</title></programme>
+<programme start="20261115170000 +0000" stop="20261115183000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">9-1-1</title><desc lang="es">Explorando las experiencias vividas de policías, paramédicos y bomberos en su día a día mientras atienden las llamadas de auxilio.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/9-1-1.jpg</image></programme>
+<programme start="20261115183000 +0000" stop="20261115203000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Largometraje</title></programme>
+<programme start="20261115203000 +0000" stop="20261115230000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Largometraje</title></programme>
+<programme start="20261115230000 +0000" stop="20261116000000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Televistazo</title></programme>
+<programme start="20261116000000 +0000" stop="20261116020000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Largometraje</title></programme>
+<programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Misión Emprende 593</title></programme>
+<programme start="20261116030000 +0000" stop="20261116040000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">9-1-1</title><desc lang="es">Explorando las experiencias vividas de policías, paramédicos y bomberos en su día a día mientras atienden las llamadas de auxilio.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/9-1-1.jpg</image></programme>
+<programme start="20261116040000 +0000" stop="20261116090000 +0000" channel="Ecuavisa.ec@SD"><title lang="es">Telenovelas</title></programme>
 <programme start="20261114030000 +0000" stop="20261114053000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">En Contacto</title></programme>
 <programme start="20261114053000 +0000" stop="20261114063000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">3 Familias</title></programme>
 <programme start="20261114063000 +0000" stop="20261114070000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Así pasa</title></programme>
@@ -130,27 +114,33 @@
 <programme start="20261114233000 +0000" stop="20261115023000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Ojitos hechiceros</title></programme>
 <programme start="20261115023000 +0000" stop="20261115040000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Los hackers de la farándula</title></programme>
 <programme start="20261115040000 +0000" stop="20261115053000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">En Contacto</title></programme>
-<programme start="20261113040000 +0000" stop="20261113100000 +0000" channel="Gamavision.ec@SD"><title lang="es">Programación</title></programme>
-<programme start="20261113100000 +0000" stop="20261113130000 +0000" channel="Gamavision.ec@SD"><title lang="es">Gamavisión - La revista</title></programme>
-<programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="Gamavision.ec@SD"><title lang="es">Ventas Mundo TV</title></programme>
-<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="Gamavision.ec@SD"><title lang="es">Vidas y bebidas</title></programme>
-<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="Gamavision.ec@SD"><title lang="es">Con Olor a Región</title></programme>
-<programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="Gamavision.ec@SD"><title lang="es">La cocina de mi abuela</title></programme>
-<programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="Gamavision.ec@SD"><title lang="es">Todo lo que sé</title></programme>
-<programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="Gamavision.ec@SD"><title lang="es">Gamanoticias - Emisión central</title></programme>
-<programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="Gamavision.ec@SD"><title lang="es">Los Protagonistas</title></programme>
-<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="Gamavision.ec@SD"><title lang="es">El vuelo de México</title></programme>
-<programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="Gamavision.ec@SD"><title lang="es">Tv Médica</title></programme>
-<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="Gamavision.ec@SD"><title lang="es">Guardianes de la Salud</title></programme>
-<programme start="20261113193000 +0000" stop="20261113203000 +0000" channel="Gamavision.ec@SD"><title lang="es">Puro Teatro</title></programme>
-<programme start="20261113203000 +0000" stop="20261113233000 +0000" channel="Gamavision.ec@SD"><title lang="es">Gamavisión - La revista</title></programme>
-<programme start="20261113233000 +0000" stop="20261114003000 +0000" channel="Gamavision.ec@SD"><title lang="es">Planeta futbol</title></programme>
-<programme start="20261114003000 +0000" stop="20261114013000 +0000" channel="Gamavision.ec@SD"><title lang="es">Virgencitas Ecuador</title></programme>
-<programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="Gamavision.ec@SD"><title lang="es">Encuentro con la historia</title></programme>
-<programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="Gamavision.ec@SD"><title lang="es">Esta es mi canción</title></programme>
-<programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="Gamavision.ec@SD"><title lang="es">Los Protagonistas</title></programme>
-<programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="Gamavision.ec@SD"><title lang="es">Encanto de Japón</title></programme>
-<programme start="20261114040000 +0000" stop="20261114100000 +0000" channel="Gamavision.ec@SD"><title lang="es">Programación</title></programme>
+<programme start="20261115040000 +0000" stop="20261115053000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">En Contacto</title></programme>
+<programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">3 Familias</title></programme>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Así pasa</title></programme>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">El Combo Amarillo</title></programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Milagros</title></programme>
+<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Crecer sin límites</title></programme>
+<programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Plenitud de Vida</title></programme>
+<programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Medita conmigo</title></programme>
+<programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Saberes milenarios</title></programme>
+<programme start="20261115110000 +0000" stop="20261115113000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Televistazo sábado</title></programme>
+<programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Programa Pagado</title></programme>
+<programme start="20261115120000 +0000" stop="20261115123000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Vive al máximo</title></programme>
+<programme start="20261115123000 +0000" stop="20261115130000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Zooreality</title></programme>
+<programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Good Mood</title></programme>
+<programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Energía pilates</title></programme>
+<programme start="20261115140000 +0000" stop="20261115143000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Somos lo que comemos</title></programme>
+<programme start="20261115143000 +0000" stop="20261115153000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Políticamente correcto</title></programme>
+<programme start="20261115153000 +0000" stop="20261115163000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Esta semana</title></programme>
+<programme start="20261115163000 +0000" stop="20261115180000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">En Contacto</title></programme>
+<programme start="20261115180000 +0000" stop="20261115193000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Los hackers de la farándula</title></programme>
+<programme start="20261115193000 +0000" stop="20261115210000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Resumen de ``Los García``</title></programme>
+<programme start="20261115210000 +0000" stop="20261115230000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Resumen semanal: 3 familias</title></programme>
+<programme start="20261115230000 +0000" stop="20261116000000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Televistazo Domingo</title></programme>
+<programme start="20261116000000 +0000" stop="20261116020000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Ojitos hechiceros</title></programme>
+<programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Misión Emprende 593</title></programme>
+<programme start="20261116030000 +0000" stop="20261116043000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">Los hackers de la farándula</title></programme>
+<programme start="20261116043000 +0000" stop="20261116060000 +0000" channel="EcuavisaInternacional.ec@SD"><title lang="es">En Contacto</title></programme>
 <programme start="20261114040000 +0000" stop="20261114100000 +0000" channel="Gamavision.ec@SD"><title lang="es">Programación</title></programme>
 <programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="Gamavision.ec@SD"><title lang="es">Encanto de Japón</title></programme>
 <programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="Gamavision.ec@SD"><title lang="es">Colombiar</title></programme>
@@ -173,43 +163,21 @@
 <programme start="20261115023000 +0000" stop="20261115033000 +0000" channel="Gamavision.ec@SD"><title lang="es">Memorias</title></programme>
 <programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="Gamavision.ec@SD"><title lang="es">RPM</title></programme>
 <programme start="20261115040000 +0000" stop="20261115100000 +0000" channel="Gamavision.ec@SD"><title lang="es">Programación</title></programme>
-<programme start="20261113043000 +0000" stop="20261113053000 +0000" channel="IntiTV.ec@SD"><title lang="es">Sexualidad integral</title></programme>
-<programme start="20261113053000 +0000" stop="20261113063000 +0000" channel="IntiTV.ec@SD"><title lang="es">Ser</title></programme>
-<programme start="20261113063000 +0000" stop="20261113073000 +0000" channel="IntiTV.ec@SD"><title lang="es">Medita conmigo</title></programme>
-<programme start="20261113073000 +0000" stop="20261113083000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vida Tai Chi</title></programme>
-<programme start="20261113083000 +0000" stop="20261113090000 +0000" channel="IntiTV.ec@SD"><title lang="es">Yoga terapia</title></programme>
-<programme start="20261113090000 +0000" stop="20261113093000 +0000" channel="IntiTV.ec@SD"><title lang="es">Crecer sin límites</title></programme>
-<programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vive fit</title></programme>
-<programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="IntiTV.ec@SD"><title lang="es">Good Mood</title></programme>
-<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="IntiTV.ec@SD"><title lang="es">Del huerto a la mesa</title></programme>
-<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="IntiTV.ec@SD"><title lang="es">Inteligencia ancestral</title></programme>
-<programme start="20261113113000 +0000" stop="20261113123000 +0000" channel="IntiTV.ec@SD"><title lang="es">De esto no se habla en la mesa</title></programme>
-<programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="IntiTV.ec@SD"><title lang="es">Mamás que hacen historia</title></programme>
-<programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="IntiTV.ec@SD"><title lang="es">De la Chancla al Nirvana</title></programme>
-<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="IntiTV.ec@SD"><title lang="es">Searching for Answers</title></programme>
-<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vive simple Edición Galápagos</title></programme>
-<programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vive simple</title></programme>
-<programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="IntiTV.ec@SD"><title lang="es">Lo aprendi en INTI</title></programme>
-<programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="IntiTV.ec@SD"><title lang="es">Música medicina</title></programme>
-<programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="IntiTV.ec@SD"><title lang="es">Transición hacia la sanación</title></programme>
-<programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="IntiTV.ec@SD"><title lang="es">Good Mood</title></programme>
-<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="IntiTV.ec@SD"><title lang="es">Science of the Soul</title></programme>
-<programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="IntiTV.ec@SD"><title lang="es">Crecer sin límites</title></programme>
-<programme start="20261113183000 +0000" stop="20261113193000 +0000" channel="IntiTV.ec@SD"><title lang="es">Ruta ancestral</title></programme>
-<programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vive simple</title></programme>
-<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vive simple Edición Galápagos</title></programme>
-<programme start="20261113203000 +0000" stop="20261113210000 +0000" channel="IntiTV.ec@SD"><title lang="es">Sanaciones con Bob Linde</title></programme>
-<programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="IntiTV.ec@SD"><title lang="es">De la Chancla al Nirvana</title></programme>
-<programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="IntiTV.ec@SD"><title lang="es">Crecer sin límites</title></programme>
-<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="IntiTV.ec@SD"><title lang="es">De esto no se habla en la mesa</title></programme>
-<programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vive verde &amp; rebelde</title></programme>
-<programme start="20261114003000 +0000" stop="20261114010000 +0000" channel="IntiTV.ec@SD"><title lang="es">Música medicina</title></programme>
-<programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="IntiTV.ec@SD"><title lang="es">Lo aprendi en INTI</title></programme>
-<programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="IntiTV.ec@SD"><title lang="es">Amarquía</title></programme>
-<programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="IntiTV.ec@SD"><title lang="es">Muertes de películas</title></programme>
-<programme start="20261114023000 +0000" stop="20261114033000 +0000" channel="IntiTV.ec@SD"><title lang="es">Pachacutec</title></programme>
-<programme start="20261114033000 +0000" stop="20261114043000 +0000" channel="IntiTV.ec@SD"><title lang="es">De la Chancla al Nirvana</title></programme>
-<programme start="20261114043000 +0000" stop="20261114053000 +0000" channel="IntiTV.ec@SD"><title lang="es">Sexualidad integral</title></programme>
+<programme start="20261115040000 +0000" stop="20261115100000 +0000" channel="Gamavision.ec@SD"><title lang="es">Programación</title></programme>
+<programme start="20261115100000 +0000" stop="20261115130000 +0000" channel="Gamavision.ec@SD"><title lang="es">Encanto de Japón</title></programme>
+<programme start="20261115130000 +0000" stop="20261115200000 +0000" channel="Gamavision.ec@SD"><title lang="es">Ventas Mundo TV</title></programme>
+<programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="Gamavision.ec@SD"><title lang="es">Vidas y bebidas</title></programme>
+<programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="Gamavision.ec@SD"><title lang="es">Todo lo que sé</title></programme>
+<programme start="20261115210000 +0000" stop="20261115220000 +0000" channel="Gamavision.ec@SD"><title lang="es">Complejamente</title></programme>
+<programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="Gamavision.ec@SD"><title lang="es">Educación financiera</title></programme>
+<programme start="20261115223000 +0000" stop="20261115230000 +0000" channel="Gamavision.ec@SD"><title lang="es">Los Protagonistas</title></programme>
+<programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="Gamavision.ec@SD"><title lang="es">NCC Iberoamérica</title></programme>
+<programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="Gamavision.ec@SD"><title lang="es">NCC ciencia, tecnología y cultura</title></programme>
+<programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="Gamavision.ec@SD"><title lang="es">Empieza en casa</title></programme>
+<programme start="20261116010000 +0000" stop="20261116020000 +0000" channel="Gamavision.ec@SD"><title lang="es">El candidato ideal</title></programme>
+<programme start="20261116020000 +0000" stop="20261116033000 +0000" channel="Gamavision.ec@SD"><title lang="es">Verdades o mentiras</title></programme>
+<programme start="20261116033000 +0000" stop="20261116040000 +0000" channel="Gamavision.ec@SD"><title lang="es">Los Protagonistas</title></programme>
+<programme start="20261116040000 +0000" stop="20261116100000 +0000" channel="Gamavision.ec@SD"><title lang="es">Programación</title></programme>
 <programme start="20261114043000 +0000" stop="20261114053000 +0000" channel="IntiTV.ec@SD"><title lang="es">Sexualidad integral</title></programme>
 <programme start="20261114053000 +0000" stop="20261114063000 +0000" channel="IntiTV.ec@SD"><title lang="es">Ser</title></programme>
 <programme start="20261114063000 +0000" stop="20261114073000 +0000" channel="IntiTV.ec@SD"><title lang="es">Medita conmigo</title></programme>
@@ -245,36 +213,41 @@
 <programme start="20261115023000 +0000" stop="20261115033000 +0000" channel="IntiTV.ec@SD"><title lang="es">Documental Amarukan, el retorno de la pachamama</title></programme>
 <programme start="20261115033000 +0000" stop="20261115043000 +0000" channel="IntiTV.ec@SD"><title lang="es">De la Chancla al Nirvana</title></programme>
 <programme start="20261115043000 +0000" stop="20261115053000 +0000" channel="IntiTV.ec@SD"><title lang="es">Sexualidad integral</title></programme>
-<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">STV Noticias</title></programme>
-<programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
-<programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vive Más</title></programme>
-<programme start="20261113020000 +0000" stop="20261113023000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
-<programme start="20261113023000 +0000" stop="20261113030000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Video Control Internacional</title></programme>
-<programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vera A Su Manera</title></programme>
-<programme start="20261113040000 +0000" stop="20261113045900 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Historias Bíblicas</title></programme>
-<programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Historias Bíblicas</title></programme>
-<programme start="20261113060000 +0000" stop="20261113074500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vis a Vis con Janet Hinostroza</title></programme>
-<programme start="20261113074500 +0000" stop="20261113080000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Videoteka Musical</title></programme>
-<programme start="20261113080000 +0000" stop="20261113090000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">STV Noticias</title></programme>
-<programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Veraz</title></programme>
-<programme start="20261113100000 +0000" stop="20261113110000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Solo Animales</title></programme>
-<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Comunicación Cristiana</title></programme>
-<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
-<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vera A Su Manera</title></programme>
-<programme start="20261113130000 +0000" stop="20261113133500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
-<programme start="20261113133500 +0000" stop="20261113140000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Checklist de Visionarias</title></programme>
-<programme start="20261113140000 +0000" stop="20261113154500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vis a Vis con Janet Hinostroza</title></programme>
-<programme start="20261113154500 +0000" stop="20261113163700 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Solo Animales</title></programme>
-<programme start="20261113163700 +0000" stop="20261113170000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">El Súper Libro</title></programme>
-<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Educa</title></programme>
-<programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">inTEREview</title></programme>
-<programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Almorzando con JG</title></programme>
-<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
-<programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vida Dura</title></programme>
-<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
-<programme start="20261113203000 +0000" stop="20261113211500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Giro Del Destino</title></programme>
-<programme start="20261113211500 +0000" stop="20261113230000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Caricaturas Animadas</title></programme>
-<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Educa</title></programme>
+<programme start="20261115043000 +0000" stop="20261115053000 +0000" channel="IntiTV.ec@SD"><title lang="es">Sexualidad integral</title></programme>
+<programme start="20261115053000 +0000" stop="20261115063000 +0000" channel="IntiTV.ec@SD"><title lang="es">Ser</title></programme>
+<programme start="20261115063000 +0000" stop="20261115073000 +0000" channel="IntiTV.ec@SD"><title lang="es">Medita conmigo</title></programme>
+<programme start="20261115073000 +0000" stop="20261115083000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vida Tai Chi</title></programme>
+<programme start="20261115083000 +0000" stop="20261115090000 +0000" channel="IntiTV.ec@SD"><title lang="es">Yoga terapia</title></programme>
+<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vive fit</title></programme>
+<programme start="20261115093000 +0000" stop="20261115103000 +0000" channel="IntiTV.ec@SD"><title lang="es">Del huerto a la mesa</title></programme>
+<programme start="20261115103000 +0000" stop="20261115113000 +0000" channel="IntiTV.ec@SD"><title lang="es">Good Mood</title></programme>
+<programme start="20261115113000 +0000" stop="20261115123000 +0000" channel="IntiTV.ec@SD"><title lang="es">Crecer sin límites</title></programme>
+<programme start="20261115123000 +0000" stop="20261115130000 +0000" channel="IntiTV.ec@SD"><title lang="es">Mamás que hacen historia</title></programme>
+<programme start="20261115130000 +0000" stop="20261115133000 +0000" channel="IntiTV.ec@SD"><title lang="es">Lo aprendi en INTI</title></programme>
+<programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="IntiTV.ec@SD"><title lang="es">Inteligencia ancestral</title></programme>
+<programme start="20261115140000 +0000" stop="20261115143000 +0000" channel="IntiTV.ec@SD"><title lang="es">Música medicina</title></programme>
+<programme start="20261115143000 +0000" stop="20261115150000 +0000" channel="IntiTV.ec@SD"><title lang="es">Amarquía</title></programme>
+<programme start="20261115150000 +0000" stop="20261115153000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vive simple Edición Galápagos</title></programme>
+<programme start="20261115153000 +0000" stop="20261115160000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vive verde &amp; rebelde</title></programme>
+<programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="IntiTV.ec@SD"><title lang="es">De la Chancla al Nirvana</title></programme>
+<programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="IntiTV.ec@SD"><title lang="es">Searching for Answers</title></programme>
+<programme start="20261115173000 +0000" stop="20261115180000 +0000" channel="IntiTV.ec@SD"><title lang="es">Science of the Soul</title></programme>
+<programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="IntiTV.ec@SD"><title lang="es">De esto no se habla en la mesa</title></programme>
+<programme start="20261115190000 +0000" stop="20261115200000 +0000" channel="IntiTV.ec@SD"><title lang="es">Sabiduría femenina</title></programme>
+<programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="IntiTV.ec@SD"><title lang="es">Lo aprendi en INTI</title></programme>
+<programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="IntiTV.ec@SD"><title lang="es">Inteligencia ancestral</title></programme>
+<programme start="20261115210000 +0000" stop="20261115213000 +0000" channel="IntiTV.ec@SD"><title lang="es">Música medicina</title></programme>
+<programme start="20261115213000 +0000" stop="20261115220000 +0000" channel="IntiTV.ec@SD"><title lang="es">Amarquía</title></programme>
+<programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="IntiTV.ec@SD"><title lang="es">Crecer sin límites</title></programme>
+<programme start="20261115223000 +0000" stop="20261115230000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vive verde &amp; rebelde</title></programme>
+<programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vive simple</title></programme>
+<programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="IntiTV.ec@SD"><title lang="es">Sanaciones con Bob Linde</title></programme>
+<programme start="20261116000000 +0000" stop="20261116003000 +0000" channel="IntiTV.ec@SD"><title lang="es">Vive simple Edición Galápagos</title></programme>
+<programme start="20261116003000 +0000" stop="20261116013000 +0000" channel="IntiTV.ec@SD"><title lang="es">Pachacutec</title></programme>
+<programme start="20261116013000 +0000" stop="20261116023000 +0000" channel="IntiTV.ec@SD"><title lang="es">La profecía del munay</title></programme>
+<programme start="20261116023000 +0000" stop="20261116033000 +0000" channel="IntiTV.ec@SD"><title lang="es">Documental Amarukan, el retorno de la pachamama</title></programme>
+<programme start="20261116033000 +0000" stop="20261116043000 +0000" channel="IntiTV.ec@SD"><title lang="es">De la Chancla al Nirvana</title></programme>
+<programme start="20261116043000 +0000" stop="20261116053000 +0000" channel="IntiTV.ec@SD"><title lang="es">Sexualidad integral</title></programme>
 <programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">STV Noticias</title></programme>
 <programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">MakroNoticias</title></programme>
 <programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Trending News</title></programme>
@@ -300,29 +273,33 @@
 <programme start="20261114211500 +0000" stop="20261114230000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Caricaturas Animadas</title></programme>
 <programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Noticiero Mundo Cristiano</title></programme>
 <programme start="20261114233000 +0000" stop="20261115000000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vida Dura</title></programme>
-<programme start="20261113050000 +0000" stop="20261113061500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Escape Perfecto</title></programme>
-<programme start="20261113061500 +0000" stop="20261113070000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">C.S.I. Miami</title><desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg</image></programme>
-<programme start="20261113070000 +0000" stop="20261113071500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Entrevistas en 24 horas</title></programme>
-<programme start="20261113071500 +0000" stop="20261113074500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Yo soy tu madre</title></programme>
-<programme start="20261113074500 +0000" stop="20261113080000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">La Familia Peluche</title></programme>
-<programme start="20261113080000 +0000" stop="20261113081500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Derbez en cuando</title></programme>
-<programme start="20261113081500 +0000" stop="20261113084500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">El Chapulín Colorado</title><desc lang="es">Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chapulin_colorado.jpg</image></programme>
-<programme start="20261113084500 +0000" stop="20261113090000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">El Chavo del Ocho</title><desc lang="es">Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg</image></programme>
-<programme start="20261113090000 +0000" stop="20261113094500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">24 horas - 3ra emisión</title></programme>
-<programme start="20261113094500 +0000" stop="20261113133000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Teleamazonas Noticias Matinal</title></programme>
-<programme start="20261113133000 +0000" stop="20261113160000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">EsTAmañana</title></programme>
-<programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Como dice el dicho</title></programme>
-<programme start="20261113170000 +0000" stop="20261113190000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Teleamazonas Noticias Central</title></programme>
-<programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Deporte Total</title></programme>
-<programme start="20261113200000 +0000" stop="20261113213000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Mi corazón es tuyo</title></programme>
-<programme start="20261113213000 +0000" stop="20261113220000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">El Chapulín Colorado</title><desc lang="es">Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chapulin_colorado.jpg</image></programme>
-<programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">El Chavo del Ocho</title><desc lang="es">Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg</image></programme>
-<programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Previa fútbol Partido amistoso</title></programme>
-<programme start="20261113230000 +0000" stop="20261114010000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Fútbol Partido amistoso</title></programme>
-<programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Teleamazonas Noticias Estelar</title></programme>
-<programme start="20261114013000 +0000" stop="20261114030000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Escape Perfecto</title></programme>
-<programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Perdidos de Amor</title></programme>
-<programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Pasión y Poder</title></programme>
+<programme start="20261115000000 +0000" stop="20261115003000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Trending News</title></programme>
+<programme start="20261115003000 +0000" stop="20261115010000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Aquí y Allá</title></programme>
+<programme start="20261115010000 +0000" stop="20261115030000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Cine en Familia</title></programme>
+<programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Veraz</title></programme>
+<programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Parada Juvenil</title></programme>
+<programme start="20261115043000 +0000" stop="20261115045900 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Quebakan</title></programme>
+<programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vera A Su Manera</title></programme>
+<programme start="20261115050000 +0000" stop="20261115180000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Solo Animales</title></programme>
+<programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Checklist de Visionarias</title></programme>
+<programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Gino Freire Presenta</title></programme>
+<programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Videoteka Musical</title></programme>
+<programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Video Control Internacional</title></programme>
+<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vida Dura</title></programme>
+<programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Comunicación Cristiana</title></programme>
+<programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Solo Animales</title></programme>
+<programme start="20261115110000 +0000" stop="20261115160000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Educa</title></programme>
+<programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Mundo Patín</title></programme>
+<programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">El Súper Libro</title></programme>
+<programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Aquí y Allá</title></programme>
+<programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Migración Al Día</title></programme>
+<programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Almorzando con JG</title></programme>
+<programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">inTEREview</title></programme>
+<programme start="20261115200000 +0000" stop="20261115203000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Milagros Hoy</title></programme>
+<programme start="20261115203000 +0000" stop="20261115211500 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Giro Del Destino</title></programme>
+<programme start="20261115211500 +0000" stop="20261115230000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Caricaturas Animadas</title></programme>
+<programme start="20261115230000 +0000" stop="20261115233000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Noticiero Mundo Cristiano</title></programme>
+<programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="MakroDigitalTelevision.ec@SD"><title lang="es">Vida Dura</title></programme>
 <programme start="20261114050000 +0000" stop="20261114061500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Escape Perfecto</title></programme>
 <programme start="20261114061500 +0000" stop="20261114070000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">C.S.I. Miami</title><desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg</image></programme>
 <programme start="20261114070000 +0000" stop="20261114071500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Entrevistas en 24 horas</title></programme>
@@ -344,4 +321,28 @@
 <programme start="20261115010500 +0000" stop="20261115020500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">El buscador</title></programme>
 <programme start="20261115020500 +0000" stop="20261115030000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">América Vive</title></programme>
 <programme start="20261115030000 +0000" stop="20261115051500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">La gran aventura del cine</title></programme>
+<programme start="20261115030000 +0000" stop="20261115051500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">La gran aventura del cine</title></programme>
+<programme start="20261115051500 +0000" stop="20261115061500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Aída</title></programme>
+<programme start="20261115061500 +0000" stop="20261115070000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">24 Horas</title></programme>
+<programme start="20261115070000 +0000" stop="20261115074500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">América Vive</title></programme>
+<programme start="20261115074500 +0000" stop="20261115090000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Geeks</title></programme>
+<programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Tres Patines</title></programme>
+<programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">La Cocina del Chef</title></programme>
+<programme start="20261115100000 +0000" stop="20261115105000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Documentales de Animales</title></programme>
+<programme start="20261115105000 +0000" stop="20261115113000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Misa dominical</title></programme>
+<programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Sinfonía de Motores</title></programme>
+<programme start="20261115120000 +0000" stop="20261115140000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Tventas</title></programme>
+<programme start="20261115140000 +0000" stop="20261115143000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Salud 360</title></programme>
+<programme start="20261115143000 +0000" stop="20261115163000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Yo soy Betty, la fea</title></programme>
+<programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">El Chavo del Ocho</title><desc lang="es">Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg</image></programme>
+<programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">El impacto de el niño</title></programme>
+<programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Los Simpson</title><desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc><image>https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png</image></programme>
+<programme start="20261115190000 +0000" stop="20261115203000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Cine</title></programme>
+<programme start="20261115203000 +0000" stop="20261115220000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Cine</title></programme>
+<programme start="20261115220000 +0000" stop="20261116000000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Cine</title></programme>
+<programme start="20261116000000 +0000" stop="20261116010500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Teleamazonas Noticias Central</title></programme>
+<programme start="20261116010500 +0000" stop="20261116020500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Día a día</title></programme>
+<programme start="20261116020500 +0000" stop="20261116034500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Largometraje</title></programme>
+<programme start="20261116034500 +0000" stop="20261116041500 +0000" channel="Teleamazonas.ec@SD"><title lang="es">Sinfonía de Motores</title></programme>
+<programme start="20261116041500 +0000" stop="20261116050000 +0000" channel="Teleamazonas.ec@SD"><title lang="es">La ley y el orden U.V.E.</title></programme>
 </tv>
